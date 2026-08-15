@@ -10,7 +10,7 @@ Built with **Next.js, Express, PostgreSQL, Redis, BullMQ and NextAuth**.
 
 ### Dashboard
 
-"C:\Users\shris\OneDrive\Pictures\Screenshots\Screenshot 2026-08-15 120956.png"
+![Dashboard](./screenshots/dashboard.png)
 
 ### Compose Email
 
